@@ -1,0 +1,19 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+
+
+}
+@font-face{
+
+ font-family:pixel;
+ src:url(./lib/pixel.ttf)
+
+}
+.fonte{
+  font-family:pixel;
+  color:white;
+  font-size: 12px;
+}
